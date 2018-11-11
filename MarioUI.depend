@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1541973372 source:h:\marioui\main.cpp
+	<iostream>
+	<fstream>
+	"point.h"
+	"SDL_Plotter.h"
+
+1541973823 h:\marioui\point.h
+	<cmath>
+
+1541973869 h:\marioui\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1541973922 source:h:\marioui\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
